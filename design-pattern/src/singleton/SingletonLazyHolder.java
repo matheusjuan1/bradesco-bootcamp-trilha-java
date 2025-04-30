@@ -3,7 +3,7 @@ package singleton;
 /**
  * Singleton "Lazy Holder"
  * 
- * @see <a href="htpps://stackoverflow.com/a/24018148">Referencia</a>
+ * @see <a href="https://stackoverflow.com/a/24018148">Referencia</a>
  * 
  * @author matheusjuan1
  */
